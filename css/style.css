@@ -216,3 +216,6 @@ span.bi.bi-github{
     padding-bottom: 100px;
     overflow: visible;
 }
+.nav-item{
+    z-index: 10;
+}
